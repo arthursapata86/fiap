@@ -1,0 +1,19 @@
+src;dst;relationship
+Edna;Adega do Luis;FREQUENTA
+Edna;Sertanejo;ESCUTA
+Edna;Acao;ASSISTE
+Edna;BurgerKing;CURTE
+Edna;McDonalds;CURTE
+Yago;Fidelao Pousadas;FREQUENTA
+Yago;Funk;ESCUTA
+Yago;Rock;ESCUTA
+Arthur;Rock;ESCUTA
+Arthur;McDonalds;FREQUENTA
+Yago;Romance;ASSISTE
+Arthur;Acao;ASSISTE
+Guilherme;McDonalds;FREQUENTA
+Guilherme;BurgerKing;FREQUENTA
+Lucas;Sertanejo;ESCUTA
+Katthley;Sertanejo;ESCUTA
+Lucas;Rock;ESCUTA
+Katthley;Rock;ESCUTA
